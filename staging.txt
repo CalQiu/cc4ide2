@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Staging Area
 Fixing Previous Error
+=======
+Fixing Error.Let's Hope No-One Else Does
+>>>>>>> remotes/origin/master
